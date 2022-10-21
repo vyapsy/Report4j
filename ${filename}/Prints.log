@@ -1,0 +1,4 @@
+2022-07-13 17:54:39,112 DEBUG H.lucky1 [main] debugging
+2022-07-13 17:54:39,113 ERROR H.lucky1 [main] errors
+2022-07-13 17:54:39,113 FATAL H.lucky1 [main] fat
+2022-07-13 17:54:39,114 INFO H.lucky1 [main] info
